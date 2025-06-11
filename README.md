@@ -26,4 +26,4 @@ Compila y ejecuta el archivo `panaderia.kt` con Kotlin:
 ```sh
 kotlinc [panaderia.kt](http://_vscodecontentref_/0) -include-runtime -d [panaderia.jar](http://_vscodecontentref_/1)
 java -jar [panaderia.jar](http://_vscodecontentref_/2)
-![CAP](image.png)# INVENTARIO-
+![CAP](images/image.png)
