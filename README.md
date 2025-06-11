@@ -18,6 +18,8 @@ Al ejecutar el programa, verás un menú con las siguientes opciones:
 4. **Salir:** Termina el programa.
 
 El programa valida todas las entradas para evitar errores y asegurar que los datos sean correctos.
+![CAP](images/image.png)
+
 
 ## Ejecución
 
@@ -26,4 +28,4 @@ Compila y ejecuta el archivo `panaderia.kt` con Kotlin:
 ```sh
 kotlinc [panaderia.kt](http://_vscodecontentref_/0) -include-runtime -d [panaderia.jar](http://_vscodecontentref_/1)
 java -jar [panaderia.jar](http://_vscodecontentref_/2)
-![CAP](images/image.png)
+
